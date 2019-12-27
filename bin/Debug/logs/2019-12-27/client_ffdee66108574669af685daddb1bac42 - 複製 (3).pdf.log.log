@@ -1,0 +1,3 @@
+2019-12-27 16:59:57.3202 |TRACE| 準備新增_s3://tci-qr-web-video-jp/Demo/PDF/client_ffdee66108574669af685daddb1bac42 - 複製 (3).pdf.log
+2019-12-27 17:00:00.9923 |TRACE| output>>upload: D:\test11\PDF\client_ffdee66108574669af685daddb1bac42 - ?? (3).pdf.log to s3://tci-qr-web-video-jp/Demo/PDF/client_ffdee66108574669af685daddb1bac42 - ?? (3).pdf.log
+2019-12-27 17:00:01.0673 |TRACE| 新增成功_s3://tci-qr-web-video-jp/Demo/PDF/client_ffdee66108574669af685daddb1bac42 - 複製 (3).pdf.log

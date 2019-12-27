@@ -1,0 +1,4 @@
+2019-12-27 16:53:42.1703 |TRACE| 準備新增_s3://tci-qr-web-video-jp/Demo/PDF/PPDF/0c5287a122664578bd018ea15a7b913a.pdf
+2019-12-27 16:53:53.2388 |TRACE| output>>upload: D:\test11\PDF\PPDF\0c5287a122664578bd018ea15a7b913a.pdf to s3://tci-qr-web-video-jp/Demo/PDF/PPDF/0c5287a122664578bd018ea15a7b913a.pdf
+2019-12-27 16:53:53.3121 |TRACE| output>>
+2019-12-27 16:53:53.3121 |TRACE| 新增成功_s3://tci-qr-web-video-jp/Demo/PDF/PPDF/0c5287a122664578bd018ea15a7b913a.pdf

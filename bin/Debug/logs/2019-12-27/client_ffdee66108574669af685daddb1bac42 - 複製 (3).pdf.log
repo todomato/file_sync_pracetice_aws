@@ -1,0 +1,6 @@
+2019-12-27 16:58:16.1078 |TRACE| 準備新增_s3://tci-qr-web-video-jp/Demo/PDF/client_ffdee66108574669af685daddb1bac42 - 複製 (3).pdf
+2019-12-27 16:58:18.1741 |TRACE| error>>warning: Skipping file D:\test11\PDF\client_ffdee66108574669af685daddb1bac42 - ?? (3).pdf. File/Directory is not readable.
+2019-12-27 16:58:18.2210 |TRACE| 新增成功_s3://tci-qr-web-video-jp/Demo/PDF/client_ffdee66108574669af685daddb1bac42 - 複製 (3).pdf
+2019-12-27 17:00:28.1823 |TRACE| 準備新增_s3://tci-qr-web-video-jp/Demo/MP4/client_ffdee66108574669af685daddb1bac42 - 複製 (3).pdf
+2019-12-27 17:01:09.6714 |TRACE| output>>upload: D:\test11\MP4\client_ffdee66108574669af685daddb1bac42 - ?? (3).pdf to s3://tci-qr-web-video-jp/Demo/MP4/client_ffdee66108574669af685daddb1bac42 - ?? (3).pdf
+2019-12-27 17:01:09.7563 |TRACE| 新增成功_s3://tci-qr-web-video-jp/Demo/MP4/client_ffdee66108574669af685daddb1bac42 - 複製 (3).pdf

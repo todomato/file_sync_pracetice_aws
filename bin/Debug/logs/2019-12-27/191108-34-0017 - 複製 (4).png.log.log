@@ -1,0 +1,4 @@
+2019-12-27 17:06:22.2354 |TRACE| 準備新增_s3://tci-qr-web-video-jp/Demo/191108-34-0017 - 複製 (4).png.log
+2019-12-27 17:06:25.7193 |TRACE| output>>upload: D:\test11\191108-34-0017 - ?? (4).png.log to s3://tci-qr-web-video-jp/Demo/191108-34-0017 - ?? (4).png.log
+2019-12-27 17:06:25.7781 |DEBUG| error>>
+2019-12-27 17:06:25.7781 |TRACE| 新增成功_s3://tci-qr-web-video-jp/Demo/191108-34-0017 - 複製 (4).png.log

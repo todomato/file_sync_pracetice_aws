@@ -1,0 +1,9 @@
+2019-12-27 17:06:19.0561 |TRACE| 準備新增_s3://tci-qr-web-video-jp/Demo/191108-34-0017 - 複製 (3).png.log
+2019-12-27 17:06:22.0933 |DEBUG| error>>
+2019-12-27 17:06:22.0933 |DEBUG| error>>The user-provided path D:\test11/191108-34-0017 - 複製 (3).png.log does not exist.
+2019-12-27 17:06:22.0933 |DEBUG| error>>The user-provided path D:\test11/191108-34-0017 - 複製 (3).png.log does not exist.
+2019-12-27 17:06:22.1457 |DEBUG| error>>
+2019-12-27 17:06:22.1477 |TRACE| 新增成功_s3://tci-qr-web-video-jp/Demo/191108-34-0017 - 複製 (3).png.log
+2019-12-27 17:06:28.1839 |TRACE| 準備刪除_s3://tci-qr-web-video-jp/Demo/191108-34-0017 - 複製 (3).png.log
+2019-12-27 17:06:31.0536 |DEBUG| error>>
+2019-12-27 17:06:31.0536 |TRACE| 刪除成功_s3://tci-qr-web-video-jp/Demo/191108-34-0017 - 複製 (3).png.log

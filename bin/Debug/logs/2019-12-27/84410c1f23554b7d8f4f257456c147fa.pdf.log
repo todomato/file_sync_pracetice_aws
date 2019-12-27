@@ -1,0 +1,7 @@
+2019-12-27 16:53:35.4655 |TRACE| 準備新增_s3://tci-qr-web-video-jp/Demo/PDF/PPDF/84410c1f23554b7d8f4f257456c147fa.pdf
+2019-12-27 16:53:42.0151 |TRACE| output>>upload: D:\test11\PDF\PPDF\84410c1f23554b7d8f4f257456c147fa.pdf to s3://tci-qr-web-video-jp/Demo/PDF/PPDF/84410c1f23554b7d8f4f257456c147fa.pdf
+2019-12-27 16:53:42.0934 |TRACE| output>>
+2019-12-27 16:53:42.0934 |TRACE| 新增成功_s3://tci-qr-web-video-jp/Demo/PDF/PPDF/84410c1f23554b7d8f4f257456c147fa.pdf
+2019-12-27 16:55:23.2722 |TRACE| 準備刪除_s3://tci-qr-web-video-jp/Demo/PDF/PPDF/84410c1f23554b7d8f4f257456c147fa.pdf
+2019-12-27 16:55:26.3878 |TRACE| output>>
+2019-12-27 16:55:26.3878 |TRACE| 刪除成功_s3://tci-qr-web-video-jp/Demo/PDF/PPDF/84410c1f23554b7d8f4f257456c147fa.pdf

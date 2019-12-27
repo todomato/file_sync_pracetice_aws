@@ -1,0 +1,3 @@
+2019-12-27 17:04:28.6582 |TRACE| 準備改名_s3://tci-qr-web-video-jp/Demo/client_ffdee66108574669af685daddb1bac42.pdf
+2019-12-27 17:05:02.8770 |TRACE| output>>upload: D:\test11\client_ffdee66108574669af685daddb1bac42.pdf to s3://tci-qr-web-video-jp/Demo/client_ffdee66108574669af685daddb1bac42.pdf
+2019-12-27 17:05:02.9309 |TRACE| 改名成功_s3://tci-qr-web-video-jp/Demo/client_ffdee66108574669af685daddb1bac42.pdf

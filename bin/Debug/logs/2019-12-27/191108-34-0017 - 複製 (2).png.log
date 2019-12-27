@@ -1,0 +1,5 @@
+2019-12-27 16:16:51.1523 |TRACE| 準備刪除_s3://tci-qr-web-video-jp/Demo/PDF/191108-34-0017 - 複製 (2).png
+2019-12-27 16:16:51.6529 |TRACE| 刪除成功_s3://tci-qr-web-video-jp/Demo/PDF/191108-34-0017 - 複製 (2).png
+2019-12-27 17:03:41.1763 |TRACE| 準備新增_s3://tci-qr-web-video-jp/Demo/MP4/191108-34-0017 - 複製 (2).png
+2019-12-27 17:03:44.3071 |TRACE| output>>upload: D:\test11\MP4\191108-34-0017 - ?? (2).png to s3://tci-qr-web-video-jp/Demo/MP4/191108-34-0017 - ?? (2).png
+2019-12-27 17:03:44.3924 |TRACE| 新增成功_s3://tci-qr-web-video-jp/Demo/MP4/191108-34-0017 - 複製 (2).png

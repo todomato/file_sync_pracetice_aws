@@ -1,0 +1,6 @@
+2019-12-27 16:10:53.4643 |TRACE| 準備刪除_s3://tci-qr-web-video-jp/Demo/191108-34-0017.png
+2019-12-27 16:10:53.9251 |TRACE| 刪除成功_s3://tci-qr-web-video-jp/Demo/191108-34-0017.png
+2019-12-27 16:10:53.9291 |TRACE| 準備新增_s3://tci-qr-web-video-jp/Demo/MP4/191108-34-0017.png
+2019-12-27 16:10:54.3709 |TRACE| 新增成功_s3://tci-qr-web-video-jp/Demo/MP4/191108-34-0017.png
+2019-12-27 16:16:54.1863 |TRACE| 準備刪除_s3://tci-qr-web-video-jp/Demo/PDF/191108-34-0017.png
+2019-12-27 16:16:54.5482 |TRACE| 刪除成功_s3://tci-qr-web-video-jp/Demo/PDF/191108-34-0017.png
